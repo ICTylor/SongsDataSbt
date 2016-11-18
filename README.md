@@ -1,0 +1,1 @@
+Testing Scala and Slick implementing an Ultrastar song parser.
